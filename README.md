@@ -7,7 +7,7 @@ The purpose of this project is to explore the flight delays out of San Diego Int
 
 Project deliverables:
 
-Tableau dashboard
+  Tableau dashboard
 
 Data Sources:
   1. Airport Codes
